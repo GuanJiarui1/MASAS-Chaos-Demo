@@ -1,0 +1,5 @@
+### 访问
+GET http://localhost:8080
+
+### 探活
+GET http://localhost:8080/health
