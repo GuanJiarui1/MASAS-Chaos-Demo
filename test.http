@@ -3,3 +3,9 @@ GET http://localhost:8080
 
 ### 探活
 GET http://localhost:8080/health
+
+### 部署访问测试
+GET http://192.168.227.130:31113
+
+### 验证活检探针
+GET http://192.168.227.130:31113/health
